@@ -1,0 +1,23 @@
+.card__container{
+    min-width: 450px;
+}
+.destacados__card{
+    padding: 0;
+    width: 95%;
+}
+.destacados__img{
+    height: 100%;
+}
+.destacados__card--title{
+    font-size: large;
+    font-weight: 800;
+}
+.destacados__card--text{
+    text-align: start;
+}
+.destacados__precio{
+    font-size: medium;
+}
+.destacados__precio--icon{
+    font-size: 1rem;
+}
